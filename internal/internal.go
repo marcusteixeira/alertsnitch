@@ -42,3 +42,5 @@ type Alert struct {
 	EndsAt       time.Time         `json:"endsAt"`
 	GeneratorURL string            `json:"generatorURL"`
 }
+
+TEST
